@@ -34,8 +34,11 @@
     "@backstage/cli": "^0.29.5",
     "@backstage/e2e-test-utils": "^0.1.1",
     "@playwright/test": "^1.32.3",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
     "node-gyp": "^10.0.0",
     "prettier": "^2.3.2",
+    "semantic-release": "^24.2.1",
     "typescript": "~5.4.0"
   },
   "resolutions": {
